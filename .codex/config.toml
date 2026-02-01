@@ -1,5 +1,4 @@
 model_provider = "openai"
 
 [model_providers.openai]
-base_url = "http://card.fishtrip.top/openai"
-wire_api = "responses"
+base_url = "https://api.univibe.cc/openai/v1"
